@@ -1,14 +1,10 @@
-Anki
--------------------------------------
+This repo contains all the code for the computer version of Anki.
 
-This is the development branch of Anki.
+If you'd like to try development builds of Anki but don't feel comfortable
+building the code, please see https://betas.ankiweb.net/#/
 
-For stable builds, please see https://apps.ankiweb.net.
+For more information on building, please see [README.development](README.development).
 
-For non-developers who want to try this development code,
-the easiest way is to use a binary package - please see
-https://anki.tenderapp.com/discussions/beta-testing
+If you'd like to contribute code, please see [README.contributing](README.contributing).
 
-To run from source, please see README.development.
-
-[![Build Status](https://travis-ci.org/dae/anki.svg?branch=master)](https://travis-ci.org/dae/anki)
+[![](../../workflows/Checks/badge.svg)](../../actions)
